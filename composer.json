@@ -1,12 +1,12 @@
 {
-    "name": "werneckbh/qr-code",
+    "name": "aborham/qr-code",
     "description": "QR Code Generator for PHP",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Bruno Vaula Werneck",
-            "email": "brunovaulawerneck@gmail.com"
+            "email": "aborham83@gmail.com"
         }
     ],
     "require": {},
